@@ -10,7 +10,6 @@ A real-time chat server built using Python and WebSockets, designed for seamless
 - 🔐 Secure authentication  
 - 📦 Scalable architecture  
 - 📝 Message history storage  
-# Chat Server with Authentication
 
 ## Description
 This is a simple chat server that allows multiple users to connect, authenticate using an ID and password, and communicate in real-time. New users joining the chat can see the list of active users.
