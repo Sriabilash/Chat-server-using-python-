@@ -10,13 +10,3 @@ A lightweight and scalable chat server for real-time messaging using [your techn
 - 📦 Scalable architecture  
 - 📝 Message history storage  
 
-## 📜 Installation  
-
-### Prerequisites  
-- [List any dependencies, e.g., Node.js, Python, Redis, MongoDB]  
-
-### Steps  
-1. **Clone the repository:**  
-   ```sh
-   git clone https://github.com/your-username/chat-server.git  
-   cd chat-server  
